@@ -1,0 +1,697 @@
+{
+  "opohjola@gmail.com": {
+    "ID": "opohjola@gmail.com",
+    "version": "0.1.7",
+    "type": "avatar",
+    "name": "OP",
+    "address": "opohjola@gmail.com",
+    "style": {
+      "background": {
+        "background-color": "blue"
+      }
+    },
+    "created": "2015-02-10T20:02:55.245Z",
+    "modified": "2015-02-10T20:02:55.245Z",
+    "background": "image.png",
+    "connections": {}
+  },
+  "97c4b3e1-8430-4cf5-acff-bd5686828f0e": {
+    "ID": "97c4b3e1-8430-4cf5-acff-bd5686828f0e",
+    "version": "0.2.0",
+    "type": "room",
+    "name": "Olli-Pekka Pohjola",
+    "style": {
+      "name": {
+        "font-size": "4em",
+        "text-align": "center",
+        "top": "10%"
+      },
+      "background": {
+        "background-color": "lightblue"
+      },
+      "text": {
+        "font-size": "2em",
+        "text-align": "center",
+        "top": "10%"
+      }
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        61.476152,
+        23.8793327,
+        15
+      ]
+    },
+    "date": [
+      "2015-09-16T07:44:00Z",
+      "",
+      4
+    ],
+    "created": "2015-09-16T07:44:00Z",
+    "modified": "2015-09-16T07:44:00Z",
+    "text": "Digital creator. Triathlonist. Tenor.",
+    "background": "http://semantic-ui.com/images/backgrounds/9.jpg",
+    "connections": {
+      "97c4b3e1-8430-4cf5-acff-bd5686828f0e": {
+        "position": {
+          "top": "0%",
+          "left": "0%",
+          "height": "100%",
+          "width": "100%",
+          "z-index": "0"
+        },
+        "state": {
+          "selected": false,
+          "moving": false
+        }
+      },
+      "881127ab-afa4-4d5f-9396-6c62192b97ec": {
+        "position": {
+          "top": "55%",
+          "left": "10%",
+          "height": "30%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true,
+          "moving": false
+        }
+      },
+      "5a5c5d3e-e36c-4d3d-9c1d-3eadd1b2a475": {
+        "position": {
+          "top": "55%",
+          "left": "30%",
+          "height": "30%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true,
+          "moving": false
+        }
+      },
+      "fd073b60-3d45-4699-af4a-2d4f7ee38e7d": {
+        "position": {
+          "top": "55%",
+          "left": "50%",
+          "height": "30%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true,
+          "moving": false
+        }
+      },
+      "0ff732ca-32d9-4aca-8851-8cf876e1ca4b": {
+        "position": {
+          "top": "55%",
+          "left": "70%",
+          "height": "30%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": true,
+          "dropped": true,
+          "moving": false
+        }
+      }
+    }
+  },
+  "881127ab-afa4-4d5f-9396-6c62192b97ec": {
+    "ID": "881127ab-afa4-4d5f-9396-6c62192b97ec",
+    "IRI": null,
+    "type": "thing",
+    "name": "Mission",
+    "style": {
+      "background": {}
+    },
+    "created": "2015-09-16T07:48:38.521Z",
+    "modified": "2015-09-16T07:48:38.521Z",
+    "connections": {},
+    "class": {
+      "background": [
+        "white"
+      ]
+    },
+    "text": "To enable people to HAVE, HANDLE and UTILIZE digital information themselves in an digital environment that is neutral and independent, and where people have a full control to everything.",
+    "background": "https://dl.dropboxusercontent.com/u/54544574/assets/2015-08-23%2019.54.13.jpg"
+  },
+  "5a5c5d3e-e36c-4d3d-9c1d-3eadd1b2a475": {
+    "ID": "5a5c5d3e-e36c-4d3d-9c1d-3eadd1b2a475",
+    "IRI": null,
+    "type": "thing",
+    "name": "Personal Web",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)"
+      }
+    },
+    "created": "2015-09-16T07:48:44.932Z",
+    "modified": "2015-09-16T07:48:44.932Z",
+    "address": "http://personal-web.org/",
+    "connection": {
+      "position": {
+        "top": "60%",
+        "left": "5%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {
+        "selected": true,
+        "dropped": true
+      }
+    },
+    "background": "https://dl.dropboxusercontent.com/u/54544574/assets/infoman-shadow-green.png",
+    "text": "Neutral and independent personal information between and based on the local (files and folders) and the global (WWW) information systems."
+  },
+  "a4e48bcc-dce4-4a0e-9eaf-b2cc50f977a4": {
+    "ID": "a4e48bcc-dce4-4a0e-9eaf-b2cc50f977a4",
+    "IRI": null,
+    "type": "thing",
+    "name": "Javascript",
+    "style": {
+      "background": {
+        "background-color": "rgb(171,197,55)"
+      }
+    },
+    "created": "2015-09-16T07:48:51.682Z",
+    "modified": "2015-09-16T07:48:51.682Z",
+    "address": "http://oopee.me/javascript/",
+    "background": "http://farm3.static.flickr.com/2177/2257345980_3b93d9a3a7.jpg"
+  },
+  "fd073b60-3d45-4699-af4a-2d4f7ee38e7d": {
+    "ID": "fd073b60-3d45-4699-af4a-2d4f7ee38e7d",
+    "IRI": null,
+    "type": "thing",
+    "name": "Sports",
+    "style": {
+      "background": {
+        "background-color": "rgb(125,56,148)"
+      }
+    },
+    "created": "2015-09-16T07:48:59.109Z",
+    "modified": "2015-09-16T07:48:59.109Z",
+    "address": "",
+    "connection": {
+      "position": {
+        "top": "60%",
+        "left": "25%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {
+        "selected": false,
+        "dropped": true
+      }
+    },
+    "connections": {
+      "fbcad8be-0a53-4a2f-83b2-2d297b725d0c": {
+        "position": {
+          "top": "40%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "b38e32bd-15d6-4c2e-847f-957e5096ea2e": {
+        "position": {
+          "top": "5%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "01850675-39e6-4802-9058-82cd977f92da": {
+        "position": {
+          "top": "5%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "bb75c8a9-4e0e-43a8-9090-bfffcafd534c": {
+        "position": {
+          "top": "5%",
+          "left": "45%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "d46393f3-3419-4711-8d5f-e5e4f5ea19fd": {
+        "position": {
+          "top": "40%",
+          "left": "25%",
+          "height": "35%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "7f432ca6-98bf-4f86-93cb-09800746e79e": {
+        "position": {
+          "top": "5%",
+          "left": "65%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      }
+    },
+    "background": "http://www.triathlons101.com/images/phly_triathlon_poster_1.jpg",
+    "class": {
+      "name": [],
+      "background": [
+        "blur"
+      ]
+    }
+  },
+  "0ff732ca-32d9-4aca-8851-8cf876e1ca4b": {
+    "ID": "0ff732ca-32d9-4aca-8851-8cf876e1ca4b",
+    "IRI": null,
+    "type": "thing",
+    "name": "Music",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-16T07:49:07.939Z",
+    "modified": "2015-09-16T07:49:07.939Z",
+    "address": "",
+    "connection": {
+      "position": {
+        "top": "60%",
+        "left": "45%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {
+        "selected": false,
+        "dropped": true
+      }
+    },
+    "background": "http://static1.squarespace.com/static/53cf1338e4b05f100c83c94e/t/55d11b94e4b0e15e4391cd22/1439767448265/clarinet2.jpg",
+    "connections": {
+      "393db552-a1c6-4218-baba-bdfafe501272": {
+        "position": {
+          "top": "25%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "a92604d0-ea85-4888-b133-4a110c6b46cf": {
+        "position": {
+          "top": "25%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "888f8ce2-411f-4aaf-8943-1f03bb30af01": {
+        "position": {
+          "top": "25%",
+          "left": "45%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "b17e7a72-0397-47b5-9b78-40a0ab58568d": {
+        "position": {
+          "top": "5%",
+          "left": "45%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "99d32ee1-9ca1-4673-8110-2783bc5a7424": {
+        "position": {
+          "top": "5%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "4fb9dd63-9653-4e7b-b7a1-fda15ee9c5ea": {
+        "position": {
+          "top": "5%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "9003ca15-6550-42d9-985b-da075ae98337": {
+        "position": {
+          "top": "45%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "08f8fe73-c52e-484c-a01b-5932ebca4c0d": {
+        "position": {
+          "top": "5%",
+          "left": "65%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": true,
+          "dropped": true
+        }
+      },
+      "81e4b3a7-b4eb-4304-a2fe-8dc05071f24b": {
+        "position": {
+          "top": "25%",
+          "left": "65%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "080e2b58-5328-4aa5-9ed2-0d5ab5cf0f6d": {
+        "position": {
+          "top": "45%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": true,
+          "dropped": true
+        }
+      }
+    }
+  },
+  "fbcad8be-0a53-4a2f-83b2-2d297b725d0c": {
+    "ID": "fbcad8be-0a53-4a2f-83b2-2d297b725d0c",
+    "IRI": null,
+    "type": "thing",
+    "name": "MJR Triathlon Team",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-16T08:52:09.860Z",
+    "modified": "2015-09-16T08:52:09.860Z",
+    "background": "https://dl.dropboxusercontent.com/u/54544574/assets/mjr%20triathlon%20team.jpg",
+    "address": "https://www.facebook.com/groups/1458945467671191/",
+    "text": "2013-2015"
+  },
+  "b38e32bd-15d6-4c2e-847f-957e5096ea2e": {
+    "ID": "b38e32bd-15d6-4c2e-847f-957e5096ea2e",
+    "IRI": null,
+    "type": "thing",
+    "name": "Finntriathlon, Half Distance, Joroinen",
+    "style": {
+      "background": {
+        "background-color": "rgb(245,181,0)"
+      }
+    },
+    "created": "2015-09-16T08:52:25.335Z",
+    "modified": "2015-09-16T08:52:25.335Z",
+    "address": "http://finntriathlon.fi/joroinen/",
+    "background": "http://finntriathlon.fi/app/uploads/2015/08/joroinen-1.jpg",
+    "text": "16.7.2016"
+  },
+  "01850675-39e6-4802-9058-82cd977f92da": {
+    "ID": "01850675-39e6-4802-9058-82cd977f92da",
+    "IRI": null,
+    "type": "thing",
+    "name": "IRONMAN 70.6 Haugesund, Norway",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-16T08:52:58.228Z",
+    "modified": "2015-09-16T08:52:58.229Z",
+    "address": "http://www.ironman.com/triathlon/events/emea/ironman-70.3/haugesund.aspx",
+    "background": "http://www.ironman.com/~/media/9d1fd7122d8149a884547a0c111e8ebe/im703norway78251527%201600.jpg?w=1600&h=980&c=1",
+    "text": "5.7.2015, 04:58:33, 292/1332"
+  },
+  "bb75c8a9-4e0e-43a8-9090-bfffcafd534c": {
+    "ID": "bb75c8a9-4e0e-43a8-9090-bfffcafd534c",
+    "IRI": null,
+    "type": "thing",
+    "name": "Finntriathlon, Half Distance, Joroinen",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-16T09:03:25.849Z",
+    "modified": "2015-09-16T09:03:25.849Z",
+    "text": "19.7.2014, 5:05:33, 224/1156",
+    "background": "http://kunnonkuvaaja.kuvat.fi/kuvat/Finntriathlon+Joroinen+-+puolimatka+/Yleiset+kuvat/FT-10-01-05-6962.JPG/_img1280.jpg",
+    "address": "http://www.racetecresults.com/Results.aspx?CId=16587&RId=14"
+  },
+  "d46393f3-3419-4711-8d5f-e5e4f5ea19fd": {
+    "ID": "d46393f3-3419-4711-8d5f-e5e4f5ea19fd",
+    "IRI": null,
+    "type": "thing",
+    "name": "Kalevan Kierros",
+    "style": {
+      "background": {
+        "background-color": "rgb(125,56,148)"
+      }
+    },
+    "created": "2015-09-16T09:16:34.806Z",
+    "modified": "2015-09-16T09:16:34.806Z",
+    "background": "http://kalevankierros.fi/assets/KK_pysty_verkko_RGB_nega-1d76af4a229fe17ea944ce98a3fb21ec.png",
+    "address": "http://kalevankierros.fi/",
+    "text": "2005-2015"
+  },
+  "7f432ca6-98bf-4f86-93cb-09800746e79e": {
+    "ID": "7f432ca6-98bf-4f86-93cb-09800746e79e",
+    "IRI": null,
+    "type": "thing",
+    "name": "KMD Challenge Aarhus, Half Distance",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)"
+      }
+    },
+    "created": "2015-09-16T09:17:48.431Z",
+    "modified": "2015-09-16T09:17:48.431Z",
+    "text": "24.6.2013, 5:26:42, 324/1400",
+    "background": "http://b.bimg.dk/node-images/552/6/1152x-u/6552665-.jpg",
+    "address": "http://live.ultimate.dk/desktop/front/?eventid=1656"
+  },
+  "393db552-a1c6-4218-baba-bdfafe501272": {
+    "ID": "393db552-a1c6-4218-baba-bdfafe501272",
+    "IRI": null,
+    "type": "thing",
+    "name": "Retuperän WBK",
+    "style": {
+      "background": {
+        "background-color": "rgb(245,181,0)"
+      }
+    },
+    "created": "2015-09-16T21:14:01.058Z",
+    "modified": "2015-09-16T21:14:01.058Z",
+    "address": "http://rwbk.fi/",
+    "background": "http://rwbk.fi/images/RWBK-promo-small-4.jpg",
+    "text": "1993-2003"
+  },
+  "a92604d0-ea85-4888-b133-4a110c6b46cf": {
+    "ID": "a92604d0-ea85-4888-b133-4a110c6b46cf",
+    "IRI": null,
+    "type": "thing",
+    "name": "Polyteknikkojen Orkesteri",
+    "style": {
+      "background": {
+        "background-color": "rgb(245,181,0)"
+      }
+    },
+    "created": "2015-09-16T21:14:14.118Z",
+    "modified": "2015-09-16T21:14:14.118Z",
+    "address": "http://www.polyteknikkojenorkesteri.fi/",
+    "background": "http://www.polyteknikkojenorkesteri.fi/wp-content/uploads/header-2.jpg",
+    "text": "1992-2006"
+  },
+  "888f8ce2-411f-4aaf-8943-1f03bb30af01": {
+    "ID": "888f8ce2-411f-4aaf-8943-1f03bb30af01",
+    "IRI": null,
+    "type": "thing",
+    "name": "Akateeminen Puhallinorkesteri",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)"
+      }
+    },
+    "created": "2015-09-16T21:14:25.813Z",
+    "modified": "2015-09-16T21:14:25.813Z",
+    "address": "http://helsinkiwinds.com/",
+    "background": "http://helsinkiwinds.files.wordpress.com/2012/12/dsc_8598-e1356866361536.jpg?w=660&h=238",
+    "text": "1995-1996"
+  },
+  "b17e7a72-0397-47b5-9b78-40a0ab58568d": {
+    "ID": "b17e7a72-0397-47b5-9b78-40a0ab58568d",
+    "IRI": null,
+    "type": "thing",
+    "name": "Händel-kuoro",
+    "style": {
+      "background": {
+        "background-color": "rgb(171,197,55)"
+      }
+    },
+    "created": "2015-09-16T21:14:38.101Z",
+    "modified": "2015-09-16T21:14:38.101Z",
+    "background": "http://www.handel-kuoro.fi/uploads/images/Kuoron%20kuvat/Pienennetty%20kuoron%20kuva.jpg",
+    "address": "http://www.handel-kuoro.fi/",
+    "text": "2013-2015"
+  },
+  "99d32ee1-9ca1-4673-8110-2783bc5a7424": {
+    "ID": "99d32ee1-9ca1-4673-8110-2783bc5a7424",
+    "IRI": null,
+    "type": "thing",
+    "name": "Harjun Kamarikuoro",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)"
+      }
+    },
+    "created": "2015-09-16T21:14:50.790Z",
+    "modified": "2015-09-16T21:14:50.790Z",
+    "background": "http://www.harjunkamarikuoro.net/kuvat/ryhma/HKK_8_raj.jpg",
+    "address": "http://www.harjunkamarikuoro.net/",
+    "text": "2015"
+  },
+  "4fb9dd63-9653-4e7b-b7a1-fda15ee9c5ea": {
+    "ID": "4fb9dd63-9653-4e7b-b7a1-fda15ee9c5ea",
+    "IRI": null,
+    "type": "thing",
+    "name": "Tampereen Filharmoninen Kuoro",
+    "style": {
+      "background": {
+        "background-color": "rgb(125,56,148)"
+      }
+    },
+    "created": "2015-09-16T21:15:01.451Z",
+    "modified": "2015-09-16T21:15:01.451Z",
+    "background": "http://imageprocessor.websimages.com/width/930/crop/0,0,930x334/www.tfk.fi/Image11-1.jpg",
+    "address": "http://www.tfk.fi/",
+    "text": "2015"
+  },
+  "9003ca15-6550-42d9-985b-da075ae98337": {
+    "ID": "9003ca15-6550-42d9-985b-da075ae98337",
+    "IRI": null,
+    "type": "thing",
+    "name": "Seinäjoen Kaupunginorkesteri",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-16T21:22:25.148Z",
+    "modified": "2015-09-16T21:22:25.148Z",
+    "address": "http://www.skor.fi/",
+    "background": "http://www.skor.fi/site/_files/puhallinkvintetti.jpg",
+    "text": "1988-1990"
+  },
+  "08f8fe73-c52e-484c-a01b-5932ebca4c0d": {
+    "ID": "08f8fe73-c52e-484c-a01b-5932ebca4c0d",
+    "IRI": null,
+    "type": "thing",
+    "name": "Puhallinorkesteri Mansetti",
+    "address": "http://www.puhallinorkesterimansetti.fi/",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)",
+        "background-position": "60% 30%",
+        "background-size": "300%"
+      }
+    },
+    "created": "2015-09-21T06:41:27.387Z",
+    "modified": "2015-09-21T06:41:27.387Z",
+    "background": "http://www.puhallinorkesterimansetti.fi/wp-content/themes/PuhallinorkesteriMansetti/images/mansetti_tausta_uusi3.jpg",
+    "text": "2009-2012"
+  },
+  "81e4b3a7-b4eb-4304-a2fe-8dc05071f24b": {
+    "ID": "81e4b3a7-b4eb-4304-a2fe-8dc05071f24b",
+    "IRI": null,
+    "type": "thing",
+    "name": "Seinäjoen Isoo Orkesteri",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-21T10:14:50.917Z",
+    "modified": "2015-09-21T10:14:50.918Z",
+    "text": "1990-1992",
+    "background": "http://img.yle.fi/uutiset/pohjanmaa/article5672702.ece/ALTERNATES/w480h270/jazz%20isoo%20orkesteri%20petri%20kivim%C3%A4ki"
+  },
+  "080e2b58-5328-4aa5-9ed2-0d5ab5cf0f6d": {
+    "ID": "080e2b58-5328-4aa5-9ed2-0d5ab5cf0f6d",
+    "IRI": null,
+    "type": "thing",
+    "name": "Seinäjoen Rautatieläisten Soittokunta",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-21T10:16:23.474Z",
+    "modified": "2015-09-21T10:16:23.474Z",
+    "background": "http://dvqlxo2m2q99q.cloudfront.net/000_clients/38769/page/w400-3876912336igfN.gif",
+    "text": "1985-1990"
+  }
+}
