@@ -68,52 +68,61 @@
       },
       "881127ab-afa4-4d5f-9396-6c62192b97ec": {
         "position": {
-          "top": "55%",
+          "top": "35%",
           "left": "10%",
           "height": "30%",
           "width": "20%"
         },
         "state": {
           "selected": false,
-          "dropped": true,
-          "moving": false
+          "dropped": true
         }
       },
       "5a5c5d3e-e36c-4d3d-9c1d-3eadd1b2a475": {
         "position": {
-          "top": "55%",
+          "top": "35%",
           "left": "30%",
           "height": "30%",
           "width": "20%"
         },
         "state": {
           "selected": false,
-          "dropped": true,
-          "moving": false
+          "dropped": true
         }
       },
       "fd073b60-3d45-4699-af4a-2d4f7ee38e7d": {
         "position": {
-          "top": "55%",
+          "top": "35%",
           "left": "50%",
           "height": "30%",
           "width": "20%"
         },
         "state": {
           "selected": false,
-          "dropped": true,
-          "moving": false
+          "dropped": true
         }
       },
       "0ff732ca-32d9-4aca-8851-8cf876e1ca4b": {
         "position": {
-          "top": "55%",
+          "top": "35%",
           "left": "70%",
           "height": "30%",
           "width": "20%"
         },
         "state": {
-          "selected": true,
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "4619332c-866d-4a28-a0ea-d535d009c36a": {
+        "position": {
+          "top": "65%",
+          "left": "10%",
+          "height": "20%",
+          "width": "80%"
+        },
+        "state": {
+          "selected": false,
           "dropped": true,
           "moving": false
         }
@@ -136,7 +145,7 @@
         "white"
       ]
     },
-    "text": "To enable people to HAVE, HANDLE and UTILIZE digital information themselves in an digital environment that is neutral and independent, and where people have a full control to everything.",
+    "text": "To enable people to HAVE, HANDLE and UTILIZE digital information in an natural, neutral and independent digital environment.",
     "background": "https://dl.dropboxusercontent.com/u/54544574/assets/2015-08-23%2019.54.13.jpg"
   },
   "5a5c5d3e-e36c-4d3d-9c1d-3eadd1b2a475": {
@@ -165,7 +174,7 @@
       }
     },
     "background": "https://dl.dropboxusercontent.com/u/54544574/assets/infoman-shadow-green.png",
-    "text": "Neutral and independent personal information between and based on the local (files and folders) and the global (WWW) information systems."
+    "text": "Personal information system based on the local (files and folders) and the global (WWW) information systems."
   },
   "a4e48bcc-dce4-4a0e-9eaf-b2cc50f977a4": {
     "ID": "a4e48bcc-dce4-4a0e-9eaf-b2cc50f977a4",
@@ -468,7 +477,16 @@
     "modified": "2015-09-16T08:52:25.335Z",
     "address": "http://finntriathlon.fi/joroinen/",
     "background": "http://finntriathlon.fi/app/uploads/2015/08/joroinen-1.jpg",
-    "text": "16.7.2016"
+    "text": "16.7.2016",
+    "connection": {
+      "position": {
+        "top": "70%",
+        "left": "10%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {}
+    }
   },
   "01850675-39e6-4802-9058-82cd977f92da": {
     "ID": "01850675-39e6-4802-9058-82cd977f92da",
@@ -500,7 +518,16 @@
     "modified": "2015-09-16T09:03:25.849Z",
     "text": "19.7.2014, 5:05:33, 224/1156",
     "background": "http://kunnonkuvaaja.kuvat.fi/kuvat/Finntriathlon+Joroinen+-+puolimatka+/Yleiset+kuvat/FT-10-01-05-6962.JPG/_img1280.jpg",
-    "address": "http://www.racetecresults.com/Results.aspx?CId=16587&RId=14"
+    "address": "http://www.racetecresults.com/Results.aspx?CId=16587&RId=14",
+    "connection": {
+      "position": {
+        "top": "50%",
+        "left": "10%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {}
+    }
   },
   "d46393f3-3419-4711-8d5f-e5e4f5ea19fd": {
     "ID": "d46393f3-3419-4711-8d5f-e5e4f5ea19fd",
@@ -532,7 +559,16 @@
     "modified": "2015-09-16T09:17:48.431Z",
     "text": "24.6.2013, 5:26:42, 324/1400",
     "background": "http://b.bimg.dk/node-images/552/6/1152x-u/6552665-.jpg",
-    "address": "http://live.ultimate.dk/desktop/front/?eventid=1656"
+    "address": "http://live.ultimate.dk/desktop/front/?eventid=1656",
+    "connection": {
+      "position": {
+        "top": "30%",
+        "left": "10%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {}
+    }
   },
   "393db552-a1c6-4218-baba-bdfafe501272": {
     "ID": "393db552-a1c6-4218-baba-bdfafe501272",
@@ -628,7 +664,16 @@
     "modified": "2015-09-16T21:15:01.451Z",
     "background": "http://imageprocessor.websimages.com/width/930/crop/0,0,930x334/www.tfk.fi/Image11-1.jpg",
     "address": "http://www.tfk.fi/",
-    "text": "2015"
+    "text": "2015",
+    "connection": {
+      "position": {
+        "top": "10%",
+        "left": "10%",
+        "height": "20%",
+        "width": "20%"
+      },
+      "state": {}
+    }
   },
   "9003ca15-6550-42d9-985b-da075ae98337": {
     "ID": "9003ca15-6550-42d9-985b-da075ae98337",
@@ -693,5 +738,373 @@
     "modified": "2015-09-21T10:16:23.474Z",
     "background": "http://dvqlxo2m2q99q.cloudfront.net/000_clients/38769/page/w400-3876912336igfN.gif",
     "text": "1985-1990"
+  },
+  "4619332c-866d-4a28-a0ea-d535d009c36a": {
+    "ID": "4619332c-866d-4a28-a0ea-d535d009c36a",
+    "IRI": null,
+    "type": "thing",
+    "name": "Footer",
+    "style": {
+      "background": {
+        "background-color": "rgb(245,181,0)"
+      }
+    },
+    "created": "2015-09-23T12:39:27.536Z",
+    "modified": "2015-09-23T12:39:27.536Z",
+    "connection": {
+      "position": {
+        "top": "65%",
+        "left": "10%",
+        "height": "20%",
+        "width": "80%"
+      },
+      "state": {
+        "selected": false,
+        "dropped": true,
+        "moving": false
+      }
+    },
+    "connections": {
+      "bd601db5-339d-4bd2-a5f0-2da902872c39": {
+        "position": {
+          "top": "10%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "df202435-afd1-47e4-ba13-00f6fbbdd1f2": {
+        "position": {
+          "top": "10%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "6ffda72b-705a-40a0-8f37-229cd4e2bf8e": {
+        "position": {
+          "top": "10%",
+          "left": "45%",
+          "height": "20%",
+          "width": "40%"
+        },
+        "state": {
+          "selected": true,
+          "dropped": true,
+          "moving": false
+        }
+      }
+    }
+  },
+  "bd601db5-339d-4bd2-a5f0-2da902872c39": {
+    "ID": "bd601db5-339d-4bd2-a5f0-2da902872c39",
+    "IRI": null,
+    "type": "thing",
+    "name": "About",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-23T12:50:10.312Z",
+    "modified": "2015-09-23T12:50:10.312Z",
+    "connections": {
+      "0373d927-daf8-42a8-b382-723334686575": {
+        "position": {
+          "top": "5%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "ff1ae260-8b8c-4d75-a674-dd28c617371d": {
+        "position": {
+          "top": "5%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "1dcc4944-0d21-4d7a-a2e1-1fe0bf68eee8": {
+        "position": {
+          "top": "5%",
+          "left": "45%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "22737d6f-032c-4d32-968e-c2c9c28432cb": {
+        "position": {
+          "top": "5%",
+          "left": "65%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "5daa9d4e-3802-4dc3-bb59-56431c75bca8": {
+        "position": {
+          "top": "25%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "06dcef7d-7c7d-45bb-a244-2b166403277c": {
+        "position": {
+          "top": "25%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      }
+    }
+  },
+  "df202435-afd1-47e4-ba13-00f6fbbdd1f2": {
+    "ID": "df202435-afd1-47e4-ba13-00f6fbbdd1f2",
+    "IRI": null,
+    "type": "thing",
+    "name": "Roles",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-23T12:50:19.908Z",
+    "modified": "2015-09-23T12:50:19.908Z",
+    "connections": {
+      "9297c72f-392f-4a08-8a54-51db66dd2b65": {
+        "position": {
+          "top": "10%",
+          "left": "5%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "269e3509-b254-4693-a1c6-3ca338c859b4": {
+        "position": {
+          "top": "10%",
+          "left": "25%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "a624f213-6d52-4dbe-8ac3-92d8c1ac162f": {
+        "position": {
+          "top": "10%",
+          "left": "45%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      },
+      "171dd260-a5aa-4528-be6e-a9115922a5d7": {
+        "position": {
+          "top": "10%",
+          "left": "65%",
+          "height": "20%",
+          "width": "20%"
+        },
+        "state": {
+          "selected": false,
+          "dropped": true
+        }
+      }
+    }
+  },
+  "6ffda72b-705a-40a0-8f37-229cd4e2bf8e": {
+    "ID": "6ffda72b-705a-40a0-8f37-229cd4e2bf8e",
+    "IRI": null,
+    "type": "thing",
+    "name": "Personal Statement",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-23T12:50:30.251Z",
+    "modified": "2015-09-23T12:50:30.251Z",
+    "text": "Creative and intelligent personal information enthusiast, eager to learn and understand new things, physicist's world-view, craftsman's soul, deep theoretical background in Human-Computer Interaction, extraordinary wide experience in Information and Communications Technology, wants to be a world-class experience (UX, UI, and SW) designer."
+  },
+  "0373d927-daf8-42a8-b382-723334686575": {
+    "ID": "0373d927-daf8-42a8-b382-723334686575",
+    "IRI": null,
+    "type": "thing",
+    "name": "Olli-Pekka Pohjola",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-23T12:53:14.536Z",
+    "modified": "2015-09-23T12:53:14.536Z",
+    "address": "https://www.google.fi/search?q=olli-pekka+pohjola"
+  },
+  "ff1ae260-8b8c-4d75-a674-dd28c617371d": {
+    "ID": "ff1ae260-8b8c-4d75-a674-dd28c617371d",
+    "IRI": null,
+    "type": "thing",
+    "name": "e: oopee@iki.fi",
+    "style": {
+      "background": {
+        "background-color": "rgb(77,191,217)"
+      }
+    },
+    "created": "2015-09-23T12:54:03.326Z",
+    "modified": "2015-09-23T12:54:03.327Z",
+    "address": "mailto: oopee@iki.fi"
+  },
+  "1dcc4944-0d21-4d7a-a2e1-1fe0bf68eee8": {
+    "ID": "1dcc4944-0d21-4d7a-a2e1-1fe0bf68eee8",
+    "IRI": null,
+    "type": "thing",
+    "name": "p: +358 44 998 6633",
+    "style": {
+      "background": {
+        "background-color": "rgb(171,197,55)"
+      }
+    },
+    "created": "2015-09-23T12:54:50.632Z",
+    "modified": "2015-09-23T12:54:50.632Z",
+    "address": "tel:+358449986633"
+  },
+  "22737d6f-032c-4d32-968e-c2c9c28432cb": {
+    "ID": "22737d6f-032c-4d32-968e-c2c9c28432cb",
+    "IRI": null,
+    "type": "thing",
+    "name": "a: Routakatu 10, 33710 Tampere",
+    "style": {
+      "background": {
+        "background-color": "rgb(245,181,0)"
+      }
+    },
+    "created": "2015-09-23T12:55:35.921Z",
+    "modified": "2015-09-23T12:55:35.921Z",
+    "address": "https://www.google.fi/maps/place/Routakatu+10,+33710+Tampere/"
+  },
+  "5daa9d4e-3802-4dc3-bb59-56431c75bca8": {
+    "ID": "5daa9d4e-3802-4dc3-bb59-56431c75bca8",
+    "IRI": null,
+    "type": "thing",
+    "name": "in: www.linkedin.com/in/oppohjola",
+    "style": {
+      "background": {
+        "background-color": "rgb(125,56,148)"
+      }
+    },
+    "created": "2015-09-23T12:56:13.479Z",
+    "modified": "2015-09-23T12:56:13.479Z",
+    "address": "https://www.linkedin.com/in/oppohjola"
+  },
+  "06dcef7d-7c7d-45bb-a244-2b166403277c": {
+    "ID": "06dcef7d-7c7d-45bb-a244-2b166403277c",
+    "IRI": null,
+    "type": "thing",
+    "name": "tw: @oopeepohjola",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-23T12:57:23.446Z",
+    "modified": "2015-09-23T12:57:23.446Z"
+  },
+  "9297c72f-392f-4a08-8a54-51db66dd2b65": {
+    "ID": "9297c72f-392f-4a08-8a54-51db66dd2b65",
+    "IRI": null,
+    "type": "thing",
+    "name": "Frontend SW Design",
+    "style": {
+      "background": {
+        "background-color": "rgb(171,197,55)"
+      }
+    },
+    "created": "2015-09-23T13:00:24.033Z",
+    "modified": "2015-09-23T13:00:24.033Z",
+    "address": "https://en.wikipedia.org/wiki/Front_end_development"
+  },
+  "269e3509-b254-4693-a1c6-3ca338c859b4": {
+    "ID": "269e3509-b254-4693-a1c6-3ca338c859b4",
+    "IRI": null,
+    "type": "thing",
+    "name": "Conceptual Design",
+    "style": {
+      "background": {
+        "background-color": "rgb(232,77,33)"
+      }
+    },
+    "created": "2015-09-23T13:00:50.647Z",
+    "modified": "2015-09-23T13:00:50.647Z",
+    "address": "https://wiki.mediacube.at/wiki/images/b/bd/Conceptual-model-what-2-design.pdf"
+  },
+  "a624f213-6d52-4dbe-8ac3-92d8c1ac162f": {
+    "ID": "a624f213-6d52-4dbe-8ac3-92d8c1ac162f",
+    "IRI": null,
+    "type": "thing",
+    "name": "Concept Creation",
+    "style": {
+      "background": {
+        "background-color": "rgb(171,197,55)"
+      }
+    },
+    "created": "2015-09-23T13:01:36.697Z",
+    "modified": "2015-09-23T13:01:36.697Z",
+    "address": "https://en.wikipedia.org/wiki/Concept"
+  },
+  "171dd260-a5aa-4528-be6e-a9115922a5d7": {
+    "ID": "171dd260-a5aa-4528-be6e-a9115922a5d7",
+    "IRI": null,
+    "type": "thing",
+    "name": "Coming: Scrum Master",
+    "style": {
+      "background": {
+        "background-color": "rgb(84,97,112)"
+      }
+    },
+    "created": "2015-09-23T13:02:05.565Z",
+    "modified": "2015-09-23T13:02:05.565Z",
+    "address": "https://en.wikipedia.org/wiki/Scrum_(software_development)"
   }
 }
