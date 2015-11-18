@@ -25,7 +25,23 @@
   color: white;
   overflow: hidden; }
 
-/* line 7, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 6, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+.diory.clear {
+  padding: 0 !important; }
+
+/* line 10, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+.diory.clear > div {
+  padding: 1em;
+  position: absolute;
+  width: 100%;
+  height: 100%; }
+
+@media only screen and (max-width: 767px) {
+  /* line 18, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+  .ui.stackable.grid > .column.diory.clear {
+    padding: 0 !important; } }
+
+/* line 23, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory.column.gradient {
   background: rgba(0, 0, 0, 0.4);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.5)), color-stop(50%, rgba(255, 255, 255, 0)));
@@ -33,22 +49,22 @@
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#ffffff', GradientType=0); }
 
-/* line 18, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 34, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory.column:hover {
   color: white;
   background: rgba(0, 0, 0, 0.1); }
 
-/* line 23, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 39, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory.column * {
   margin-top: 0 !important;
   text-decoration: none; }
 
-/* line 28, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 44, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory.segment > * {
   position: relative;
   z-index: 1; }
 
-/* line 34, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 50, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory .background {
   position: absolute;
   top: 0px;
@@ -61,7 +77,7 @@
   background-position: center;
   background-repeat: no-repeat; }
 
-/* line 47, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 63, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory .background.blur {
   -webkit-transform: translatez(0);
   -ms-transform: translatez(0);
@@ -72,11 +88,11 @@
   -ms-filter: blur(10px);
   filter: blur(10px); }
 
-/* line 60, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 76, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory.column:hover .background {
   background-size: 0 !important; }
 
-/* line 64, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 80, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .diory .address {
   position: absolute;
   top: 0px;
@@ -84,11 +100,11 @@
   width: 100%;
   height: 100%; }
 
-/* line 72, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 88, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .dioman {
   opacity: 0.5; }
 
-/* line 76, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
+/* line 92, C:/Users/OP/WebstormProjects/oopee.me/tools/single-page/dev/app/styles/elements/_diory.scss */
 .dioman:hover {
   opacity: 1; }
 
