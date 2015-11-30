@@ -147,6 +147,7 @@
     "IRI": null,
     "type": "thing",
     "name": "Mission",
+    "address": "http://habitat.digital",
     "style": {
       "background": {}
     },
